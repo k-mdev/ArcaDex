@@ -4,3 +4,32 @@ Controller PCB/__Previews/*
 Controller PCB/Analysis/*.log
 Controller PCB/Analysis/*.raw
 Controller PCB/Project Logs for Dexter Pac/*
+*.log
+*.raw
+Controller PCB/Project Outputs for Dexter Pac/DexCon-macro.APR_LIB
+Controller PCB/Project Outputs for Dexter Pac/DexCon.apr
+Controller PCB/Project Outputs for Dexter Pac/DexCon.EXTREP
+Controller PCB/Project Outputs for Dexter Pac/DexCon.REP
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Copper_Signal_1.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Copper_Signal_2.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Copper_Signal_Bot.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Copper_Signal_Top.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Drawing_1.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Drillmap_1.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Keep-out.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Legend_Top.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Mechanical_13.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Mechanical_15.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_NPTH_Drill.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Pads_Bot.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Pads_Top.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Paste_Top.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Profile.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_PTH_Drill.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Soldermask_Bot.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Soldermask_Top.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Top_3D_Body.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Top_Assembly.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Top_Component_Center.gbr
+Controller PCB/Project Outputs for Dexter Pac/DexCon_Top_Courtyard.gbr
+Controller PCB/Project Outputs for Dexter Pac/Status Report.Txt

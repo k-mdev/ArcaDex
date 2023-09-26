@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: DexCon.GBR   9/12/2023  11:35:05 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Int1 (GND)                              
+.gbr                Int2 (PWR)                              
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Keep-Out Layer                          
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Assembly                            
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Top Component Center                    
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

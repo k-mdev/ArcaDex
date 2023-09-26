@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Dexter Pac.PrjPcb]
+   Generated File[DexCon_Copper_Signal_Top.gbr]
+   Generated File[DexCon_Copper_Signal_1.gbr]
+   Generated File[DexCon_Copper_Signal_2.gbr]
+   Generated File[DexCon_Copper_Signal_Bot.gbr]
+   Generated File[DexCon_Pads_Bot.gbr]
+   Generated File[DexCon_Pads_Top.gbr]
+   Generated File[DexCon_Legend_Top.gbr]
+   Generated File[DexCon_Soldermask_Top.gbr]
+   Generated File[DexCon_Soldermask_Bot.gbr]
+   Generated File[DexCon_Paste_Top.gbr]
+   Generated File[DexCon_Keep-out.gbr]
+   Generated File[DexCon_Top_3D_Body.gbr]
+   Generated File[DexCon_Top_Courtyard.gbr]
+   Generated File[DexCon_Top_Assembly.gbr]
+   Generated File[DexCon_Mechanical_13.gbr]
+   Generated File[DexCon_Mechanical_15.gbr]
+   Generated File[DexCon_Top_Component_Center.gbr]
+   Generated File[DexCon_Profile.gbr]
+   Generated File[DexCon_NPTH_Drill.gbr]
+   Generated File[DexCon_PTH_Drill.gbr]
+   Generated File[DexCon_Drawing_1.gbr]
+   Generated File[DexCon_Drillmap_1.gbr]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 11:24:34 PM On 9/13/2023
